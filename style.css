@@ -1,0 +1,16 @@
+.heading{
+    color: yellow;
+    background-color: black;
+    box-shadow: 10px 10px 10px cyan;
+    font-family: algerian;
+    width:90%;
+    border-radius: 25px;
+}
+.anchor{
+    color: red;
+    background-color: rgb(71, 196, 238);
+    box-shadow: 5px 5px 5px darkblue;
+    font-family: comic;
+    border-radius: 10px;
+    font-size: 25px;
+}
